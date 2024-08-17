@@ -1,3 +1,4 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Python%20Project&message=Basic%20Level&color=7d93a6&style=for-the-badge)
 # BMI Calculator
 
 The BMI Calculator is a beginner-level project developed in Python. It is designed to help users calculate their Body Mass Index (BMI), a widely used metric that indicates whether an individual has a healthy body weight for a given height.
